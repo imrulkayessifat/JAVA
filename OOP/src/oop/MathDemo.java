@@ -1,0 +1,24 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package oop;
+
+/**
+ *
+ * @author imrul
+ */
+public class MathDemo {
+    public static void main(String[] args) {
+       
+        System.out.println(Math.abs(-9.5));
+        System.out.println(Math.sqrt(25));
+        System.out.println(Math.pow(2,3));
+        System.out.println(Math.PI);
+        System.out.println(Math.exp(1.0));
+        System.out.println(Math.log(2.0));
+        System.out.println(Math.max(2,-2));
+        System.out.println(Math.min(2,-2));
+    }
+}
