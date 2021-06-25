@@ -1,0 +1,7 @@
+InnerClass/Main.java
+ InnerClass.Main
+InnerClass/OuterClass.java
+ InnerClass.OuterClass
+ InnerClass.OuterClass$InnerClass
+ InnerClass.OuterClass$staticClass
+ InnerClass.OuterClass$third
