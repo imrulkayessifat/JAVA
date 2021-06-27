@@ -1,0 +1,8 @@
+JavaProblemOne/Triangle.java
+ JavaProblemOne.Triangle
+JavaProblemOne/Main.java
+ JavaProblemOne.Main
+JavaProblemOne/Rectangle.java
+ JavaProblemOne.Rectangle
+JavaProblemOne/Area.java
+ JavaProblemOne.Area
