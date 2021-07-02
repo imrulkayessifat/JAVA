@@ -1,0 +1,10 @@
+CollectionFramework/LearnArrayList.java
+ CollectionFramework.LearnArrayList
+CollectionFramework/LearnStack.java
+ CollectionFramework.LearnStack
+CollectionFramework/LearnLinkedListQueue.java
+ CollectionFramework.LearnLinkedListQueue
+CollectionFramework/LearnPriorityQueue.java
+ CollectionFramework.LearnPriorityQueue
+CollectionFramework/LearnArrayDeque.java
+ CollectionFramework.LearnArrayDeque
