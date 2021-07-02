@@ -54,8 +54,10 @@ public class Main {
         System.out.println("str after : "+str);
         System.out.println("s1 is : "+s1);
         
-        if(str.contains("Jim")){
+        if(str.contains("jim")){
             System.out.println("Jim is in the string");
+        }else{
+            System.out.println("not in the string");
         }
         
         String s2 = str.substring(5);
