@@ -8,3 +8,18 @@ CollectionFramework/LearnPriorityQueue.java
  CollectionFramework.LearnPriorityQueue
 CollectionFramework/LearnArrayDeque.java
  CollectionFramework.LearnArrayDeque
+CollectionFramework/MainClass.java
+ CollectionFramework.MainClass
+CollectionFramework/LearnSet.java
+ CollectionFramework.LearnSet
+CollectionFramework/LearnMap.java
+ CollectionFramework.LearnMap
+CollectionFramework/LearnArraysClass.java
+ CollectionFramework.LearnArraysClass
+CollectionFramework/Student.java
+ CollectionFramework.Student
+CollectionFramework/StudentSet.java
+ CollectionFramework.StudentSet
+CollectionFramework/LearnCollectionsClass.java
+ CollectionFramework.LearnCollectionsClass
+ CollectionFramework.LearnCollectionsClass$1
