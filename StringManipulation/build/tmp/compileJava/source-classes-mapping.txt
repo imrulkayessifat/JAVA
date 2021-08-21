@@ -1,2 +1,36 @@
-StringManipulation/Main.java
- StringManipulation.Main
+StringManipulation/DuplicateString.java
+ StringManipulation.DuplicateString
+StringManipulation/ReverseString.java
+ StringManipulation.ReverseString
+StringManipulation/AnagramString.java
+ StringManipulation.AnagramString
+StringManipulation/Permutation.java
+ StringManipulation.Permutation
+StringManipulation/ReverseStringRecursion.java
+ StringManipulation.ReverseStringRecursion
+StringManipulation/DigitString.java
+ StringManipulation.DigitString
+StringManipulation/VowelConstantPrint.java
+ StringManipulation.VowelConstantPrint
+StringManipulation/Occurrence.java
+ StringManipulation.Occurrence
+StringManipulation/non_repeat_char.java
+ StringManipulation.non_repeat_char
+StringManipulation/StringToInt.java
+ StringManipulation.StringToInt
+StringManipulation/ReverseStringWord.java
+ StringManipulation.ReverseStringWord
+StringManipulation/RotationString.java
+ StringManipulation.RotationString
+StringManipulation/palindromeString.java
+ StringManipulation.palindromeString
+StringManipulation/RemoveGivenChar.java
+ StringManipulation.RemoveGivenChar
+StringManipulation/RemoveDuplicateChar.java
+ StringManipulation.RemoveDuplicateChar
+StringManipulation/maximumOccurringChar.java
+ StringManipulation.maximumOccurringChar
+StringManipulation/identifyDuplicateChar.java
+ StringManipulation.identifyDuplicateChar
+StringManipulation/ByteToString.java
+ StringManipulation.ByteToString

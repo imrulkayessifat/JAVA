@@ -9,6 +9,7 @@ package JavaProblemTwo;
  *
  * @author imrul
  */
+//object does not actually contain a primitive value yet. Instead, it contains a pointer.
 import java.util.*;
 public class Main {
    
@@ -27,8 +28,6 @@ public class Main {
             System.out.println("NullPointerException..");
         }
     }
-
-
       
     
 }
